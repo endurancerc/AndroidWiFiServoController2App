@@ -2,7 +2,7 @@
 
 A simple app for Android to control the Endurance R/C LLC WiFi Servo Controller 2
 
-![alt text](https://github.com/endurancerc/RealDriver/blob/master/RealDriver_screencap.jpg?raw=true)
+![alt text](https://github.com/endurancerc/AndroidWiFiServoController2App/blob/main/android.png?raw=true)
 
 -------------------------------------------------------------------------------------------------------------------------
         ______          __                                    ____     ________
