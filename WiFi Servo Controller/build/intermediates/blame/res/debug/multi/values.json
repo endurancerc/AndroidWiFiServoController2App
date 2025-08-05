@@ -1,0 +1,296 @@
+[
+    {
+        "outputFile": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 52,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 58,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 58,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 44,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 44,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 55,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 564,
+                        "endColumn": 52,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 46,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 46,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 59,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 59,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 56,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 56,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 49,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 621,
+                        "endColumn": 46,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 52,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 52,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 48,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 48,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 69,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 69,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "E:\\android development\\workspace\\Endurance RC\\WiFi Servo Controller\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
